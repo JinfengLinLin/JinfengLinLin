@@ -1,6 +1,6 @@
 # Jinfeng Lin 👋
 
-✉️ **Email:** [Contact Me](mailto:your.email@example.com) | 💼 **LinkedIn:** [Jinfeng Lin](https://linkedin.com/in/jinfeng-lin)
+✉️ **Email:** [JinfengLinLin@outlook.com](mailto:JinfengLinLin@outlook.com) | 💼 **LinkedIn:** [Jinfeng Lin](https://www.linkedin.com/in/jinfenglin)
 
 **Senior Research Scientist @ Meta Ads | AI, LLM & NLP Expert**
 
